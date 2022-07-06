@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Patel Ronak",
+    "occupation": "Student at ADIT",
+    "description": "I eat, sleep and breathe React 🚀",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Ronak Patel! You might also know me as RNK PTL. I've been coding for over 2 years now. As a Full Stack developer I've worked with mini project that while build to pursing my Bachelor's Degree. I learn new technology ReactJs, NextJs, NodeJs, JavaScript, Java. I love to build some atteractive website, and grow them. I have been created full stack website using ReactJs, NodeJs and MongoDB. And also creating some clone using JavaScript.",
+    "contactmessage": "Get in touch with me.",
+    "email": "pronak391@gmail.com",
+    "phone": "+91 8154974580",
+    "address": {
+      "street": "Dolat Porda",
+      "city": "Balasinor",
+      "state": "Gujarat",
+      "zip": "388265"
+    },
+    "website": "/",
+    "resumedownload": "/Ronak_Resume.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/rnk_ptl_",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/patel.ronak.5011516/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/patel-ronak-433029202/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rnk_ptl_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ronakptl996",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "A.D.Patel Institute of Technology, Karamsand",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "July 2023",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Calmcoders",
+        "title": "Web Developer",
+        "years": "May 2021 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the Calmcoders as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "ExpressJS",
+        "level": "60%"
+      },
+      {
+        "name": "NextJS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blog Website (Next JS)",
+        "category": "",
+        "image": "blog-website.png",
+        "url": "https://nextjs-blog-psi-olive.vercel.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://github.com/ronakptl996/netflix-clone"
+      },
+      {
+        "title": "Metaverse Chat (React JS)",
+        "category": "",
+        "image": "chat.png",
+        "url": "https://github.com/ronakptl996/metaverse-chat"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "",
+        "image": "covid-19.png",
+        "url": "https://github.com/ronakptl996/covid-19-tracker"
+      }
+    ]
+  }
+}
